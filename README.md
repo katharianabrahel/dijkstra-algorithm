@@ -13,6 +13,22 @@ Projeto realizado na disciplina de Algoritmos e Estrutura de Dados, do curso de 
 Execute o arquivo main.py para acessar a interface gráfica do projeto. Então escolha a estações de partida e estação de destino. Lembrando que nem todas estações estão conectadas, confira os grupos de estações que se conectam no arquivo do relatório do projeto (Anexo I).
 
 ## :camera: Imagens
+  Execução do programa fazendo a busca do menor caminho entre as estações 7 e 164
+  
+ <img src="images/busca_menor_caminho.png" />
+ 
+  Plot do grafo com o menor caminho entre as estações 7 e 164
+  
+ <img src="images/grafo_menor_caminho.png" />
+ 
+   Grafo completo
+  
+ <img src="images/grafo_completo.png" />
+ 
+    Grafo completo sem o nome das estações e as distâncias
+  
+ <img src="images/grafo_sem_valores.png" />
+
 
 ## ✒️ Autores
 
