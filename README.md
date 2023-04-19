@@ -12,6 +12,8 @@ Projeto realizado na disciplina de Algoritmos e Estrutura de Dados, do curso de 
 ## :rocket: Rodando o projeto
 Execute o arquivo main.py para acessar a interface gráfica do projeto. Então escolha a estações de partida e estação de destino. Lembrando que nem todas estações estão conectadas, confira os grupos de estações que se conectam no arquivo do relatório do projeto (Anexo I).
 
+## :camera: Imagens
+
 ## ✒️ Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/109428550?v=4" width=115><br><sub>Hallan Ângelo</sub>](https://github.com/hallanangelo) | [<img src="https://avatars.githubusercontent.com/u/104030171?v=4" width=115><br><sub>Katharian Abrahel</sub>](https://github.com/katharianabrahel) |
