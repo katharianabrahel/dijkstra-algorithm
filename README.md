@@ -25,7 +25,7 @@ Execute o arquivo main.py para acessar a interface gráfica do projeto. Então e
   
  <img src="images/grafo_completo.png" />
  
-    Grafo completo sem o nome das estações e as distâncias
+   Grafo completo sem o nome das estações e as distâncias
   
  <img src="images/grafo_sem_valores.png" />
 
